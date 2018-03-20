@@ -1,0 +1,13 @@
+{
+  "name": "remoting-test",
+  "url" : "https://github.com/YOUR_NAME/remoting-test/",
+  "license": "MIT",
+  "tags": ["haxe","js"],
+  "description": "description of remoting-test",
+  "version": "0.1",
+  "releasenote": "Initial release",
+  "contributors": ["YOUR_NAME"],
+  "dependencies": {
+
+  }
+}
